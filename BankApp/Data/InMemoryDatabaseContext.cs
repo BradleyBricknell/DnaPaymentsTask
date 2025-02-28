@@ -72,7 +72,7 @@ namespace BankApp.Data
 				{
 					AccountTypeId = 1,
 					AccountTypeAlias = "Current",
-					CustomerToBusinessPaymantsAllowed = true
+					CustomerToBusinessPaymentsAllowed = true
 				} 
 			},
 			{ 
@@ -81,7 +81,7 @@ namespace BankApp.Data
 				{
 					AccountTypeId = 2,
 					AccountTypeAlias = "Savings",
-					FulfilllNextBusinessDay = true
+					FulfillNextBusinessDay = true
 				} 
 			}
 		};

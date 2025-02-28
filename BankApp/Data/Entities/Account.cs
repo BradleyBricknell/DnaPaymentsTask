@@ -80,11 +80,11 @@
 		/// <summary>
 		/// A flag to determine where we communicate to the user that transactions from this account type won't be fulfilled until the next business day
 		/// </summary>
-		public bool FulfilllNextBusinessDay { get; set; }
+		public bool FulfillNextBusinessDay { get; set; }
 
 		/// <summary>
 		/// A flag to determine whether customer to business payments are allowed
 		/// </summary>
-		public bool CustomerToBusinessPaymantsAllowed { get; set; }
+		public bool CustomerToBusinessPaymentsAllowed { get; set; }
 	}
 }
