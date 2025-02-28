@@ -61,7 +61,6 @@ namespace BankApp.Model
 
 	public enum MembershipType
 	{
-		Unknown = 0,
 		FreeBanking = 1,
 		BankingPlus = 2,
 		BankingPlatinum = 3
